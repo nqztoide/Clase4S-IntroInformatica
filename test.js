@@ -1,0 +1,2 @@
+let numero
+let nombre
